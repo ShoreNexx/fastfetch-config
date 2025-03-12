@@ -7,7 +7,8 @@ This repository contains my custom Fastfetch configuration for displaying system
 ![Fastfetch Preview](Preview.png)
 
 ## Ascii Art logo Preview
-![Fastfetch Preview](Preview2.png2)
+
+![Fastfetch Preview2](Preview2.png)
 
 
 
