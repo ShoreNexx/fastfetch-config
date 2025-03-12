@@ -2,9 +2,12 @@
 
 This repository contains my custom Fastfetch configuration for displaying system information in the terminal with a personalized aesthetic.
 
-## Preview
+## Normal Preview
 
 ![Fastfetch Preview](Preview.png)
+
+## Ascii Art logo Preview
+![Fastfetch Preview](Preview2.png2)
 
 
 
